@@ -47,11 +47,11 @@ web:
             root: 'web'
             # The front-controller script which determines where to send
             # non-static requests.
-            passthru: '/app.php'
+            passthru: '/index.php'
         # Allow uploaded files to be served, but do not run scripts.
         # Missing files get mapped to the front controller above.
         '/files':
             root: 'web/files'
             scripts: false
             allow: true
-            passthru: '/app.php'
+            passthru: '/index.php'
