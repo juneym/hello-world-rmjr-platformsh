@@ -1,7 +1,3 @@
 "https://hello.rmartinezjr.com":
     type: upstream
     upstream: "hello-world-rmjr:http"
-
-"https://hellow.rmartinezjr.com":
-    type: upstream
-    upstream: "hello-world-rmjr:http"
