@@ -1,7 +1,7 @@
 "https://hello.rmartinezjr.com":
     type: upstream
-    upstream: "app:http"
+    upstream: "web:http"
 
 "https://hellow.rmartinezjr.com":
     type: upstream
-    upstream: "app:http"
+    upstream: "web:http"
