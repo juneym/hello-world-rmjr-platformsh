@@ -1,0 +1,6 @@
+{
+  "name": "juneym/hello-world-platformsh",
+  "require": {
+    "slim/slim": "^3.0"
+  }
+}
